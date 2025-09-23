@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Dennis from Ghana<br><br>- 📚 I'm currently learning backend web development<br>- ⚡ In my free time I read research papers in the field of materials engineering</p>
+<p align="left">I'm Dennis from Ghana<br><br>- 📚 I'm currently learning backend web development<br>- ⚡ In my free time I watch football and read sometimes.</p>
 
 ###
 
