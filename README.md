@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Dennis from Ghana<br><br>- 📚 I'm currently learning backend web development<br>- ⚡ In my free time I watch football and read sometimes.</p>
+<p align="left">I'm Dennis from Ghana<br><br>- 📚 I'm currently learning fullstack web development on freecodecamp<br>- ⚡ In my free time I watch football and read sometimes.</p>
 
 ###
 
